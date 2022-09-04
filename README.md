@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Stewart! <br/><a href="https://github.com/stewartmcclure">Programmer</a> | <a href="https://www.linkedin.com/in/stewart-mcclure-084215203/">Computer Science Student</a></h1>
 
-<!--
-**stewartmcclure/stewartmcclure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
+
+<h2>📜 Certifications:</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="StewartMcclure | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/stewart-mcclure-084215203/
+
+
 
 Here are some ideas to get you started:
 
