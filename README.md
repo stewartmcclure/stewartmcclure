@@ -1,8 +1,10 @@
 <h1>Hi, I'm Stewart! <br/><a href="https://github.com/stewartmcclure">Programmer</a> | <a href="https://www.linkedin.com/in/stewart-mcclure-084215203/">Computer Science Student</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 <h2>📜 Certifications:</h2>
+ <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DBBBBBLLAGCQ">Google IT Support Professional
+<br/><a href="https://www.coursera.org/account/accomplishments/certificate/ZQKUH65B7HB5">Coursera: Intro To Devops
 
 <h2> 🤳 Connect with me:</h2>
 
