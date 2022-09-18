@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stewart! <br/><a href="https://github.com/stewartmcclure">Programmer</a> | <a href="https://www.linkedin.com/in/stewart-mcclure-084215203/">Computer Science Student</a></h1>
+<h1>Hi, I'm Stewart! <br/><a href="https://github.com/stewartmcclure">Programmer</a> | <a href="https://www.linkedin.com/in/stewartmcclure/">Computer Science Student</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
