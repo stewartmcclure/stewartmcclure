@@ -15,7 +15,7 @@
 [linkedin]: https://www.linkedin.com/in/stewart-mcclure-084215203/
 
 
-<br/>
+<h2> Currently:
 
 - 🔭 I’m currently working on ... Finishing my Bachelor's Degree in Computer Science and landing my first job in tech!
 - 🌱 I’m currently learning ... Currently I have been working on small, solo school projects using PostgreSQL, Java/JavaFX using IntelliJ, and Python using Pycharm. 
