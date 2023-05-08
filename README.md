@@ -6,7 +6,6 @@
  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DBBBBBLLAGCQ">Google IT Support Professional
 <br/><a href="https://www.coursera.org/account/accomplishments/certificate/ZQKUH65B7HB5">Coursera: Intro To Devops
 <br/><a href="https://www.credly.com/badges/9f983fe4-014c-4138-a383-7f8d1115bcdf/linked_in?t=rqj7n6"> CompTIA Project+
-br/><a href="
 
 <h2> 🤳 Connect with me:</h2>
 
