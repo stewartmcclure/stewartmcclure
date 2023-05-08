@@ -1,6 +1,7 @@
 <h1>Hi, I'm Stewart! <br/><a href="https://github.com/stewartmcclure">Programmer</a> | <a href="https://www.linkedin.com/in/stewartmcclure/">Computer Science Student</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
+<a href="https://github.com/stewartmcclure/Inventory-Management"> Inventory Management System
 
 <h2>📜 Certifications:</h2>
  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DBBBBBLLAGCQ">Google IT Support Professional
